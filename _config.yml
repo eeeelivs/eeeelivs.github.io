@@ -27,8 +27,8 @@ author:
   name             : "Junle Zhong"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "L2S, Centralesupelec, Paris-Saclay University"
+  location         : "Orsay, France"
+  employer         : "Centralesupelec, Paris-Saclay University"
   uri              : # URL
   email            : "junle.zhong@centralesupelec.fr" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
