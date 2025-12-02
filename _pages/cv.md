@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in wireless communication system, Centralesupelec, Paris-Saclay University, 2028 (expected)
+* M.S. in Advanced Wireless Communication Systems, Centralesupelec, Paris-Saclay University, 2025
+* B.S. in Electronics, Electrical Energy, Automation, Toulouse III - Paul Sabatier University, 2022
+* B.S. in Electronics, Electrical Energy, Automation, Northeastern University(China), 2022
 
 Work experience
 ======
